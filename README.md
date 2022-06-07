@@ -1,6 +1,5 @@
 # Ant-Colony-Algorithm-Optimization
- 
-Sınırlı ve Sınırsız Araç Problemi İçin Karınca Kolonisi Algoritması 
+ Sınırlı ve Sınırsız Araç Problemi İçin Karınca Kolonisi Algoritması 
 
 Gidilecek duraklar belirlenir. Daha sonra random bir şekilde bir durak seçilir ve o durağa gidilir. \
 Toplam araç kapasitesinden duraktaki yolcu sayısı kapasitesi çıkartılarak araç kapasitesi güncellenir. \
